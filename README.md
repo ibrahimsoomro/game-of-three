@@ -27,7 +27,13 @@ Game of Three is a multiplayer game where players take turns manipulating a numb
    npm run start
    ```
 
-4. Access the game client (you can create multiple clients using this command within the project directory):
+4. Run tests:
+
+   ```bash
+   npm run test
+   ```
+
+5. Access the game client (you can create multiple clients using this command within the project directory):
 
    ```bash
    npx wscat -c ws://localhost:3000

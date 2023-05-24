@@ -12,7 +12,7 @@ Game of Three is a multiplayer game where players take turns manipulating a numb
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/number-game.git
+   git clone git@github.com:ibrahimsoomro/game-of-three.git
    ```
 
 2. Install dependencies:
